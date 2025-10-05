@@ -7,6 +7,20 @@ Users can **sign up, verify their email, log in, and manage their boards, lists,
 
 ---
 
+
+##  Output Screenshots
+
+Below are the screenshots of different pages and features of the Mini Trello (Kanban) App.
+
+![Page1](output%20screenshot/Page1.png)
+![Page2](output%20screenshot/Page2.png)
+![Page3](output%20screenshot/Page3.png)
+![Page4](output%20screenshot/Page4.png)
+![Page5](output%20screenshot/Page5.png)
+![Page6](output%20screenshot/Page6.png)
+
+---
+
 ##  Features
 
  **User Authentication**
