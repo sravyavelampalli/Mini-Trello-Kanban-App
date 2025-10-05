@@ -42,7 +42,6 @@ Users can **sign up, verify their email, log in, and manage their boards, lists,
 
 ---
 
----
 
 ##  Environment Setup
 
@@ -144,7 +143,3 @@ npm run lint      # Lint code with ESLint
 
 ---
 
-
-
-Original base project: [Mini-Trello-Kanban-App by Sravya Velampalli](https://github.com/sravyavelampalli/Mini-Trello-Kanban-App)  
-Powered by **Supabase**, **React**, **Vite**, and **Tailwind CSS**.
